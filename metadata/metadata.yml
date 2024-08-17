@@ -1,8 +1,8 @@
 metadata_version: 1
-name: SWDB Neural Coding
-description: 'SWDB Day 2: Neural Coding'
+name: SWDB 2024 Physiology
+description: Tutorial on Neural Coding for SWDB 2024
 tags:
-- swdb2024
+- SWDB
 authors:
 - name: Yoni Browning
 - name: Matt Davis
